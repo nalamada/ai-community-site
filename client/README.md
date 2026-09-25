@@ -2,7 +2,7 @@
 
 A full-stack web application for an AI community platform with admin authentication system.
 
-## Features
+## Features of this application
 
 ### Frontend (React + TypeScript)
 

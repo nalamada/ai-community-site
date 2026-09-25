@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Feasibility & Impact Frameworks: Scope AI-native use cases with confidence",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
+    {
+      title: "AI PRD & Prototype: Walk into interviews with your own AI product",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
   ];
 
   return (
